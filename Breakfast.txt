@@ -1,0 +1,9 @@
+101	BDT 850		Vegetables Tempura                 
+102	BDT 850		Tofu with Spicy Garlic Tomato Chili
+103	BDT 850		Vietnamese Spring Roll             
+104	BDT 950		Crispy Waffle with Blueberry_Sauce 
+105	BDT 850		Stuffed French Toast               
+107	BDT 750		Avocado Toast                      
+108	BDT 800		Perky Potion                       
+109	BDT 1050	Duck Spring Roll with Hoisin Sauce 
+110	BDT 300		Alu Paratha                        

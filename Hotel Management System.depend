@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586091990 source:d:\program learning\cse 115l\project\hotel management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,8 @@
+301	BDT 1250	Arabica Crusted Steak              
+302	BDT 1350	Seared Salmon                      
+303	BDT 1250	Chicken Farro Risotto              
+304	BDT 1350	Truffled Chicken Pot Pie           
+305	BDT 2000	Wagyu Steak                        
+306	BDT 1000	Cauliflower Salad                  
+307	BDT 950		Tortellini ans Spinach Soup        
+308	BDT 1250	Frozen Rum Infused Pina Colada Soup

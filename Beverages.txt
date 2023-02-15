@@ -1,0 +1,12 @@
+401	 BDT 43000	JW Blue Lable       
+402	 BDT 14500	JW Black Label      
+403	 BDT 16000	Jack Daniels        
+404	 BDT 18000	Maccallan 12        
+405	 BDT 6500	Sparkling Wine(30ml)
+406	 BDT 8000	White Wine(30ml)    
+407	 BDT 8000	Red Wine(30ml)      
+408	 BDT 12000	Champagne(30ml)     
+409	 BDT 700	Single Malt (30ml)  
+410	 BDT 650	Blended Scotch(30ml)
+411	 BDT 350	Mint Water          
+412	 BDT 300	Cold Drinks         

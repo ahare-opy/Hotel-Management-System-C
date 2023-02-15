@@ -1,0 +1,11 @@
+201	 BDT 1650	Wasabi Prawns with Tobiko         
+202	 BDT 1050	Wok Fried Fragrant Chicken        
+203	 BDT 1050	Chicken Satay with Peanut Sauce   
+204	 BDT 1050	Crispy Lamb with Honey Chili Sauce
+205	 BDT 1150	Fish Thai Ching                   
+206	 BDT 1050	Beef Schnitzel                    
+207	 BDT 1050	Grilled Chicken Fillet            
+208	 BDT 1150	T-Bone Steak                      
+209	 BDT 1050	Steak & Kidney PIE                
+210	 BDT 1050 	Crumbed Garfish Fillet            
+211	BDT 1050	Kacchi Biriyani
